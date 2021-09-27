@@ -1,0 +1,7 @@
+Install axios
+npm install axios
+
+Manage Routes
+npm install vue-router
+
+npm run serve
